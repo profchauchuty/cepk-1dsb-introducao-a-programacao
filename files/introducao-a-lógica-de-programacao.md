@@ -104,7 +104,7 @@ Atualmente, algoritmos são utilizados em diversas áreas, como engenharia, admi
 
 - Uma sequência de passos para atingir um objetivo definido;  
 - Um procedimento passo a passo para resolver um problema;  
-- Uma sequência detalhada de ações para executar uma tarefa.                                                                    |
+- Uma sequência detalhada de ações para executar uma tarefa.
 
 ---
 
