@@ -1,6 +1,6 @@
 # Formas de Representação de Algoritmos
 
-Com o passar do tempo e o estudo dos algoritmos, foram desenvolvidas diversas formas de representar um algoritmo, com o objetivo de facilitar seu entendimento e, posteriormente, sua tradução para uma linguagem de programação. Entre as formas mais conhecidas, destacam-se:  
+Com o passar do tempo e o estudo dos algoritmos, foram desenvolvidas diversas formas de representá-los, com o objetivo de facilitar seu entendimento e, posteriormente, sua tradução para uma linguagem de programação. Entre as formas mais conhecidas, destacam-se:  
 
 - **Descrição Narrativa**  
 - **Fluxograma**  
@@ -35,9 +35,9 @@ Nessa forma de representação, as instruções são descritas livremente, mas �
 
 ## Fluxograma
 
-O **fluxograma** é a forma gráfica de representar um algoritmo mais conhecida e utilizada. Ele permite mostrar graficamente a lógica de um algoritmo, enfatizando passos individuais e o fluxo de execução.
+O **fluxograma** é a forma **gráfica** de representar um algoritmo mais conhecida e utilizada. Ele permite mostrar graficamente a lógica de um algoritmo, enfatizando passos individuais e o fluxo de execução.  
 
-Para muitos autores, o fluxograma é a forma universal de representação, pois utiliza **figuras geométricas padronizadas** para ilustrar os passos a serem seguidos na resolução de problemas. O ideal é que um fluxograma seja interpretado da mesma forma por diferentes pessoas.
+Para muitos autores, o fluxograma é a forma universal de representação, pois utiliza **figuras geométricas padronizadas** para ilustrar os passos a serem seguidos na resolução de problemas. O ideal é que um fluxograma seja interpretado da mesma forma por diferentes pessoas.  
 
 Para que um fluxograma seja interpretado corretamente, é necessário entender sua **sintaxe** e **semântica**:
 
@@ -47,7 +47,12 @@ Para que um fluxograma seja interpretado corretamente, é necessário entender s
 > **Semântica:** Significado do que foi escrito, ou seja, **o que o comando faz**.  
 > **Exemplo:** `nome = "João";` define a variável `nome` com o valor **João**.
 
-Por se tratar de uma representação gráfica, o fluxograma não se mostra adequado para a representação de algoritmos maiores e/ou mais complexos. Nesses casos, é comum o uso do pseudocódigo como forma de representação
+![Fluxograma - Introdução à Programação](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/fluxograma.jpg?raw=true)
 
-![Fluxograma](files/fluxograma_01.jpeg?raw=true "Fluxograma de exemplo")
+Para criar fluxogramas de forma prática, você pode utilizar a ferramenta [Excalidraw](https://excalidraw.com/).
 
+> ⚠️ Por se tratar de uma representação gráfica, o fluxograma **não se mostra adequado para algoritmos maiores e/ou mais complexos**. Nesses casos, é comum o uso do pseudocódigo como forma de representação.
+
+---
+
+## Pseudocódigo (Pesquisar!)
