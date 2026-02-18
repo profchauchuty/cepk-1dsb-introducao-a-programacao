@@ -7,13 +7,13 @@
 
 ---
 
-## 📊 Sistema Avaliativo 
+## 📊 Sistema de Avaliação 
 
 ### 1º Trimestre
 
 | Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|--------------------|-----------|----------------|------------|
-| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 
@@ -21,7 +21,7 @@
 
 | Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|--------------------|-----------|----------------|------------|
-| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 
@@ -37,9 +37,18 @@
 
 ## 🧪 Conteúdos
 
-| Aula                           | Link                   |
-|--------------------------------|------------------------|
-| Conduta em Sala de Aula        | [Acessar](https://...) |
+| Aula                                   | Link                                                                 |
+|----------------------------------------|----------------------------------------------------------------------|
+| Introdução à Lógica de Programação     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
+| Formas de Representação de Algoritmos  | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/formas-de-representacao-de-algoritmos.md) |
+
+---
+
+## 🛠 Ferramentas
+
+| Ferramenta       | Finalidade                                     | Link                       |
+|-----------------|-----------------------------------------------|----------------------------|
+| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
 
 ---
 
