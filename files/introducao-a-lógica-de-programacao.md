@@ -62,9 +62,9 @@ Desde sua criação, a lógica passou por grandes avanços, especialmente a part
 
 Tradicionalmente, sua evolução é dividida em três períodos:
 
-- **Período Clássico**  
-- **Período Moderno**  
-- **Período Contemporâneo**
+- **Período Clássico:** centra-se na lógica formal de Aristóteles, usando silogismos para organizar o pensamento e validar argumentos dedutivos.
+- **Período Moderno:** caracteriza-se pelo surgimento da lógica simbólica e matemática, com autores como Boole e Frege, permitindo representar proposições e operações lógicas de forma formal e abstrata.
+- **Período Contemporâneo:** amplia a lógica para áreas como computação.
 
 ---
 
@@ -84,8 +84,6 @@ Essa vertente influenciou diretamente áreas como:
 
 ---
 
-### Lógica de Programação no contexto da informática
-
 Apesar das diversas definições, a lógica pode ser compreendida como uma **ciência** que busca identificar as leis que o pensamento deve seguir para ser considerado válido.
 
 No contexto da informática:
@@ -96,7 +94,7 @@ Ou seja, trata-se da técnica que define **o que deve ser feito** e **em que ord
 
 ---
 
-### Algoritmos: aplicabilidade da lógica no desenvolvimento de programas
+### Algoritmos
 
 A construção de **algoritmos** representa o primeiro passo no desenvolvimento de programas de computador. Embora seja uma das etapas mais complexas da programação, também é uma das mais desafiadoras e estimulantes.
 
