@@ -2,7 +2,7 @@
 
 ---
 
-## 1.1 Conceituação
+## Conceituação
 
 ### O computador e seu papel
 Sem duvida, o computador é uma das maiores invenções do homem e tem se mostrado uma ferramenta **versátil, rápida e segura** para a manipulação de informações.
