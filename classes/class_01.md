@@ -106,19 +106,7 @@ Atualmente, algoritmos são utilizados em diversas áreas, como engenharia, admi
 
 - Uma sequência de passos para atingir um objetivo definido;  
 - Um procedimento passo a passo para resolver um problema;  
-- Uma sequência detalhada de ações para executar uma tarefa.
-
----
-
-## Exemplo: Algoritmo para Fritar um Ovo
-
-| Etapa          | Versão conceitual (cozinha)                              | Versão lógica / Pseudocódigo                                                                 |
-|----------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| **INÍCIO**     | Início do algoritmo / início da execução                 | INÍCIO                                                                                       |
-| **ENTRADA**    | Coleta dos ingredientes e preferências (ponto da gema)   | ler ovo<br>ler oleo<br>ler sal<br>ler gemaDesejada                                           |
-| **PROCESSAMENTO** | Preparar o ovo de acordo com o ponto desejado         | aquecerFrigideira()<br>adicionarOleo()<br>quebrarOvoNaFrigideira()<br>adicionarSal()<br><br>se gemaDesejada = "mole" então<br>&nbsp;&nbsp;fritarTempoCurto()<br>senão<br>&nbsp;&nbsp;fritarTempoMaior()<br>fimSe<br><br>enquanto claraNaoFirme()<br>&nbsp;&nbsp;fritar()<br>fimEnquanto |
-| **SAÍDA**      | Ovo frito pronto para consumo                            | ovoFritoPronto                                                                               |
-| **FIM**        | Fim do algoritmo / finalização                           | FIM                                                                                           |
+- Uma sequência detalhada de ações para executar uma tarefa.                                                                    |
 
 ---
 
