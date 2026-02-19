@@ -1,7 +1,7 @@
 # 📘 Introdução à Programação
 
 
-**Turma:** 1ª Ano B – Tarde – CEPK  
+**Turma:** 1ª Ano DSB – Tarde – CEPK  
 **Professor:** Cesar Mauricio Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
