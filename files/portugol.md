@@ -22,8 +22,9 @@ programa
 - `//` → comentário, não executado  
 
 ## 3. Comandos de Saída
+- `escreva("Mensagem...\n")` → exibe texto e pula linha
 - `escreva()` → exibe texto sem pular linha  
-- `escreval()` → exibe texto e pula linha  
+  
 
 **Exemplo:**
 ```portugol
@@ -31,8 +32,8 @@ programa
 {
     funcao inicio()
     {
-        escreval("Linha 1")
-        escreval("Linha 2")
+        escreva("Linha 1\n")
+        escreva("Linha 2")
     }
 }
 ```
