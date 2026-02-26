@@ -38,11 +38,15 @@
 
 ## 🧪 Conteúdos
 
-| Aula                                   | Link                                                                 |
-|----------------------------------------|----------------------------------------------------------------------|
-| Introdução à Lógica de Programação     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
-| Algoritmos    | O que é algoritmo? | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/algoritmos.md) |
-| Introdução à Programação Web: HTML, CSS e JavaScript     | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
+| Aula                               | Link |
+|------------------------------------|------|
+| Introdução à Lógica de Programação | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
+| Algoritmos                         | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/algoritmos.md) |
+| Portugol                           | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/portugol.md) |
+| Variáveis e Tipos de Dados         | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/variaveis_e_tipos_de_dados.md) |
+| Estruturas Condicionais            | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/estruturas_condicionais.md) |
+|------------------------------------|------|
+| Introdução à Programação Web: HTML, CSS e JavaScript | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
 
 ---
 
