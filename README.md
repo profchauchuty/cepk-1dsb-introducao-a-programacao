@@ -41,7 +41,7 @@
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
 | Introdução à Lógica de Programação     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
-| Pseudocódigo    |  |
+| Algoritmos    | O que é algoritmo? | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/algoritmos.md) |
 | Introdução à Programação Web: HTML, CSS e JavaScript     | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
 
 ---
@@ -50,6 +50,7 @@
 
 | Ferramenta       | Finalidade                                     | Link                       |
 |-----------------|-----------------------------------------------|----------------------------|
+| Portugol        | Ambiente online para escrever, testar e executar algoritmos em Portugol | [Acessar](https://portugol.dev/) | 
 | Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
 
 ---
