@@ -43,7 +43,7 @@
 ## 6. Exercícios
 - Escreva um algoritmo para escovar os dentes  
 - Escreva um algoritmo para fazer login em um sistema  
-- Organize corretamente o algoritmo abaixo:  
+- Ordene corretamente o algoritmo abaixo:  
   1. Dividir por 2  
   2. Receber duas notas  
   3. Mostrar a média  
