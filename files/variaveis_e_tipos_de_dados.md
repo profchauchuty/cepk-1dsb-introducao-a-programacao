@@ -40,23 +40,23 @@ programa
     funcao inicio()
     {
         inteiro idade
-        idade <- 16
+        idade = 16
 
         real altura
-        altura <- 1.75
+        altura = 1.75
 
         caractere inicial
-        inicial <- 'C'
+        inicial = 'C'
 
         cadeia nome
-        nome <- "Cesar"
+        nome = "Cesar"
 
         logico aprovado
-        aprovado <- true
+        aprovado = true
     }
 }
 ```
-- `<-` → operador de atribuição  
+- `=` → operador de atribuição  
 - Valor à direita é armazenado na variável à esquerda  
 
 ## 6. Entrada de Dados
