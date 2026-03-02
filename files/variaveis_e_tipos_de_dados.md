@@ -45,14 +45,14 @@ programa
         real altura
         altura = 1.75
 
-        caractere inicial
+        caracter inicial
         inicial = 'C'
 
         cadeia nome
         nome = "Cesar"
 
         logico aprovado
-        aprovado = true
+        aprovado = verdadeiro
     }
 }
 ```
@@ -68,7 +68,7 @@ programa
         inteiro idade
         escreva("Digite sua idade: ")
         leia(idade)
-        escreval("Sua idade é: ", idade)
+        escreva("Sua idade é: ", idade)
     }
 }
 ```
@@ -90,8 +90,8 @@ programa
         leia(a)
         escreva("Digite b: ")
         leia(b)
-        soma <- a + b
-        escreval("Soma: ", soma)
+        soma = a + b
+        escreva("Soma: ", soma)
     }
 }
 ```
