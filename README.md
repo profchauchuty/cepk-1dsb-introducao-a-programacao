@@ -14,7 +14,7 @@
 
 | Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade Individual        | Áreas e Volumes    | 2.0 + 1.0 | 15/03/2025     | ◻️         |
 | Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 
@@ -45,6 +45,7 @@
 | Portugol                           | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/portugol.md) |
 | Variáveis e Tipos de Dados         | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/variaveis_e_tipos_de_dados.md) |
 | Estruturas Condicionais            | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/estruturas_condicionais.md) |
+| Atividade Individual               | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/av1-area-volume.md) |
 |------------------------------------|------|
 | Introdução à Programação Web: HTML, CSS e JavaScript | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
 
