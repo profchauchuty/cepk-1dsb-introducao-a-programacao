@@ -78,3 +78,4 @@ programa
 1. Criar programa que verifique se um número é positivo, negativo ou zero  
 2. Criar programa que receba a idade e informe se é menor ou maior de idade  
 3. Criar programa que leia três notas e informe se o aluno foi aprovado ou reprovado (média >= 7)
+4. Criar programa que identifique se o número é PAR ou ÍMPAR (usar %)
