@@ -6,31 +6,31 @@
 
 ## 2. Estrutura `se`
 ```portugol
-se (condicao) entao
+se (condicao){
     // comandos se verdadeiro
-fimse
+}
 ```
 
 ## 3. Estrutura `se...senao`
 ```portugol
-se (condicao) entao
+se (condicao){
     // comandos se verdadeiro
-senao
+} senao {
     // comandos se falso
-fimse
+}
 ```
 
 ## 4. Estruturas Encadeadas (Aninhadas)
 ```portugol
-se (condicao1) entao
+se(condicao){
     // comandos 1
-senao
-    se (condicao2) entao
+} senao {
+    se (condicao2){
         // comandos 2
-    senao
+    } senao {
         // comandos 3
-    fimse
-fimse
+    }
+}
 ```
 
 ## 5. Estrutura `escolha/caso`
@@ -59,11 +59,11 @@ programa
         escreva("Digite a nota: ")
         leia(nota)
 
-        se (nota >= 7) entao
+        se (nota >= 7){
             escreval("Aprovado")
-        senao
+        } senao {
             escreval("Reprovado")
-        fimse
+        }
     }
 }
 ```
