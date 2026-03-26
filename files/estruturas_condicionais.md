@@ -20,7 +20,7 @@ senao
 fimse
 ```
 
-## 4. Estruturas Encadeadas
+## 4. Estruturas Encadeadas (Aninhadas)
 ```portugol
 se (condicao1) entao
     // comandos 1
