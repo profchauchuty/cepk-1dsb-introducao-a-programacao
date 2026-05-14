@@ -102,11 +102,9 @@ programa
         inteiro i
 
         para(i = 1 ; i <= 10 ; i++){
-
             se(i == 5){
                 pare
             }
-
             escreva(i)
         }
     }
@@ -133,9 +131,7 @@ programa
         inteiro soma = 0
 
         para(numero = 1 ; numero <= 5 ; numero++){
-
             soma = soma + numero
-
         }
 
         escreva("Soma total: ", soma)
