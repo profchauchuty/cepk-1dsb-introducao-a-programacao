@@ -53,7 +53,7 @@ programa
         inteiro numero = 1
 
         faca{
-            escreval(numero)
+            escreva(numero)
             numero++
         } enquanto(numero <= 5)
     }
@@ -80,7 +80,7 @@ programa
         inteiro i
 
         para(i = 1 ; i <= 10 ; i++){
-            escreval(i)
+            escreva(i)
         }
     }
 }
@@ -107,7 +107,7 @@ programa
                 pare
             }
 
-            escreval(i)
+            escreva(i)
         }
     }
 }
@@ -138,7 +138,7 @@ programa
 
         }
 
-        escreval("Soma total: ", soma)
+        escreva("Soma total: ", soma)
     }
 }
 ```
