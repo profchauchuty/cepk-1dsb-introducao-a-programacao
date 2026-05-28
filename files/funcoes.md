@@ -68,8 +68,7 @@ programa
     }
 
     funcao inteiro somar(inteiro a, inteiro b){
-        inteiro total = a + b
-        retorne total // Devolve o valor calculado
+        retorne a + b // Devolve o valor calculado
     }
 }
 ```
