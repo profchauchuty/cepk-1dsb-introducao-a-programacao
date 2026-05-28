@@ -21,13 +21,11 @@ funcao tipo_retorno nome_da_funcao(parametros){
 ```portugol
 programa
 {
-    funcao inicio()
-    {
+    funcao inicio(){
         mensagemBoasVindas() // Chamada da função
     }
 
-    funcao mensagemBoasVindas()
-    {
+    funcao mensagemBoasVindas(){
         escreva("Bem-vindo ao sistema!")
     }
 }
@@ -42,13 +40,11 @@ programa
 ```portugol
 programa
 {
-    funcao inicio()
-    {
+    funcao inicio(){
         exibirIdade(25) // O valor 25 é passado como parâmetro
     }
 
-    funcao exibirIdade(inteiro idade)
-    {
+    funcao exibirIdade(inteiro idade){
         escreva("Você tem ", idade, " anos.")
     }
 }
@@ -64,16 +60,14 @@ programa
 ```portugol
 programa
 {
-    funcao inicio()
-    {
+    funcao inicio(){
         inteiro resultado
         
         resultado = somar(10, 5) // Armazena o valor retornado
         escreva("O resultado é: ", resultado)
     }
 
-    funcao inteiro somar(inteiro a, inteiro b)
-    {
+    funcao inteiro somar(inteiro a, inteiro b){
         inteiro total = a + b
         retorne total // Devolve o valor calculado
     }
@@ -98,14 +92,12 @@ programa
 {
     inteiro global = 100 // Variável Global
 
-    funcao inicio()
-    {
+    funcao inicio(){
         inteiro local = 10 // Variável Local
         escreva(local, " e ", global)
     }
 
-    funcao outra_funcao()
-    {
+    funcao outra_funcao(){
         // escreva(local) -> Erro! Esta função não conhece a variável local
         escreva(global) // Funciona!
     }
@@ -147,13 +139,11 @@ programa
         }
     }
 
-    funcao real calcularMedia(real n1, real n2)
-    {
+    funcao real calcularMedia(real n1, real n2){
         retorne (n1 + n2) / 2
     }
 
-    funcao logico verificarAprovacao(real media)
-    {
+    funcao logico verificarAprovacao(real media){
         se(media >= 6.0){
             retorne verdadeiro
         } senao {
