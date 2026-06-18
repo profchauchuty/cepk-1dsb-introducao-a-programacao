@@ -23,6 +23,7 @@
 | Estruturas de Repetição | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/estruturas-de-repeticao.md) |
 | Atividade Repetição     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/exercicios-estrutura-de-repeticao.md) |
 | Funções                 | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/funcoes.md) |
+| Vetores e Matrizes      | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/vetores-matrizes.md) |
 |------------------------------------|------|
 | Introdução à Programação Web: HTML, CSS e JavaScript | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
 
